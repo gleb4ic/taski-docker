@@ -10,8 +10,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['localhost', '89.169.184.19', 'tasksglobals.duckdns.org']
 
-
-
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
     'django.contrib.admin',
