@@ -11,7 +11,6 @@ DEBUG = True
 ALLOWED_HOSTS = ['localhost', '89.169.184.19', 'tasksglobals.duckdns.org']
 
 
-# Application definition
 
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
